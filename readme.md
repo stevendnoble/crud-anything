@@ -8,7 +8,7 @@
 
 In addition, you are **required to use a gem or feature of Rails which hasn't been covered explicitly in class**.
 
-#### Example Gems or Rails Features
+## Example Gems or Rails Features
 
 * <a href="https://github.com/markets/awesome-ruby" target="_blank">GIANT LIST OF AWESOME GEMS</a>
 * <a href="http://code.tutsplus.com/articles/24-extremely-useful-ruby-gems-for-web-development--net-23863" target="_blank">CLICK BAIT</a>
