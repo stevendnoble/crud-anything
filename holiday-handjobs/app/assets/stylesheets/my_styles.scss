@@ -1,0 +1,60 @@
+a, h1 {
+	color: #e0ffe0;
+}
+
+body {
+   background-color: #5cb85c
+}
+
+.navbar-inverse {
+   background: #ff0030;
+   border-color: #ff0030;
+   color: #fff;
+   font-weight: bold;
+}
+
+.navbar-nav>li>a, .navbar-brand {
+   color: #e0ffe0 !important;   
+}
+
+.stitch {
+   padding: 20px;
+   background: #ff0030;
+   color: #fff;
+   font-weight: bold;
+   border: 5px dashed #e0ffe0;
+   border-radius: 20px;
+   box-shadow: 0 0 0 4px #ff0030, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
+   text-shadow: -1px -1px #aa3030;
+   font-weight: normal;
+}
+
+.stitch2 {
+   padding: 20px;
+   background: #e0ffe0;
+   color: black;
+   font-weight: normal;
+   border: 5px dashed #ff0030;
+   border-radius: 20px;
+   box-shadow: 0 0 0 4px #e0ffe0, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);
+   text-shadow: 0 0;
+   font-weight: normal;
+}
+
+.stitch2 a, .stitch2 h1 {
+   color: red;
+}
+
+#map-container {
+   height: 400px;
+   border-radius: 16px 16px;
+   border-color: #fff;
+   border-style: solid;
+   box-shadow: 2px 2px 10px #B1B1B1;
+   margin-top: 25px;
+   border-width: 7px;
+ }
+ #map-canvas {
+   height: 384px;
+   width: 100%;
+ }
